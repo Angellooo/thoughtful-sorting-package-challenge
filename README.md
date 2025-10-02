@@ -69,4 +69,4 @@ Option 1: Clone the repository:
    git clone https://github.com/Angellooo/thoughtful-sort-package-challenge.git
    cd thoughtful-sorting-package-challenge
 
-Option 2: Run the script directly in 
+Option 2: Run the script directly in this Github Codespace https://crispy-waddle-74wq79j96gvcwq44.github.dev/
